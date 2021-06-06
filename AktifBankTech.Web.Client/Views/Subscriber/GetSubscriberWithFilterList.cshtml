@@ -1,0 +1,40 @@
+﻿@using AktifBankTech.Web.Client.Helper.Url
+@using AktifBankTech.Business.Commons.Models.SubscriptionModels
+@using AktifBankTech.Web.Client.Helper.Server
+
+@model List<SubscriptionResponse>
+@{
+    Layout = null;
+
+    AuthSessionManager authManager = new AuthSessionManager();
+}
+
+<table class="mainTable">
+    <thead>
+        <tr>
+            <th scope="col">Abone No</th>
+            <th scope="col">Durum</th>
+            <th scope="col">Abonelik Tipi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td data-label="Topic" class="tableFirstTd">@item.Id</td>
+                <td data-label="Category">@item.IsActive</td>
+                <td data-label="Category">@item.SubscriptionType.TypeName</td>
+                <td data-label="Reports" class="buttonsTd">
+                    <a class="btn btn-primary" href="@UrlManager.GetUrl("SubscriptionInvoice", new {subscriptionId = item.Id})">
+                        Faturalar
+                    </a>
+                    @if (authManager.GetAuthenticatUser().Role.RoleName == "Admin" && item.IsActive)
+                    {
+                        <button type="button" class="btn btn-default" style="color:black;" data-toggle="modal" data-target="#modalInvoiceStatus" onclick="EditSubscriptionStatusUpdateModal('@item.Id')">Abonelik Kapat</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

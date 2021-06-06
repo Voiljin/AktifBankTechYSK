@@ -1,0 +1,11 @@
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\bin\Debug\AktifBankTech.Business.Commons.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\bin\Debug\AktifBankTech.Business.Commons.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.csproj.CoreCompileInputs.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.csprojAssemblyReference.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\bin\Debug\AktifBankTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\bin\Debug\AktifBankTech.Business.Commons.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business.Commons\obj\Debug\AktifBankTech.Business.Commons.pdb

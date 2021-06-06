@@ -1,0 +1,79 @@
+﻿@using AktifBankTech.Web.Client.Helper.Url
+
+@using AktifBankTech.Business.Commons.Models.SubscriptionModels
+
+@model List<SubscriptionResponse>
+
+@{
+    ViewBag.Title = "UserSubscriptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+}
+
+<div class="pageWrapper">
+    <div class="row">
+        <div class="col-md-10">
+            <h2>Aboneliklerim</h2>
+        </div>
+    </div>
+    <hr />
+
+    <div class="tableWrapper">
+        <div class="tabWrapper" id="newsTabWrapper">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row" id="testRow">
+                        <div class="typeSelectWrapper">
+
+                        </div>
+                        <div class="categorySelectWrapper">
+
+                        </div>
+                        <div class="subCategorySelectWrapper">
+
+                        </div>
+                        <div class="countrySelectWrapper">
+
+                        </div>
+                        <div class="dateRangerSelectWrapper">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tableContent" id="newsDataContent" style="margin-top:25px;">
+                <div class="table-responsive">
+                    <table class="mainTable">
+                        <thead>
+                            <tr>
+                                <th scope="col">Abone No</th>
+                                <th scope="col">Abonelik Tipi</th>
+                                <th scope="col">Durum</th>
+                                <th scope="col">İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+
+                                <tr>
+                                    <td data-label="Topic" class="tableFirstTd">@item.Id</td>
+                                    <td data-label="Category">@item.IsActive</td>
+                                    <td data-label="Category">@item.SubscriptionType.TypeName</td>
+                                    <td data-label="Reports" class="buttonsTd">
+                                        <a class="btn btn-primary" href="@UrlManager.GetUrl("SubscriptionInvoice", new {subscriptionId = item.Id})">
+                                            Faturalarım
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

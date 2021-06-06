@@ -1,0 +1,37 @@
+﻿@using AktifBankTech.Business.Commons.Models.InvoiceModels
+@using AktifBankTech.Business.Commons.Models.CommonModels
+
+@model List<InvoiceResponse>
+@{
+    Layout = null;
+}
+
+<table class="mainTable">
+    <thead>
+        <tr>
+            <th scope="col">Fatura Tutarı</th>
+            <th scope="col">Fatura Durumu</th>
+            <th scope="col">Fatura Tarihi</th>
+            <th scope="col">Son Ödeme Tarihi</th>
+            <th scope="col">İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td data-label="Topic" class="tableFirstTd">@item.Value TL</td>
+                <td data-label="Category">@item.Status</td>
+                <td data-label="Published Date">@item.InvoiceDate.ToString("dd.MM.yyyy")</td>
+                <td data-label="Status">@item.InvoiceDueDate.ToString("dd.MM.yyyy")</td>
+                <td data-label="Reports" class="buttonsTd">
+                    @if (item.Status == StaticParameters.InvoiceStatusActive)
+                    {
+                        <button type="button" class="btn btn-default" style="color:black;"  data-toggle="modal" data-target="#modalInvoiceStatus" onclick="EditInvoiceStatusUpdateModal('@item.Id')">Fatura Öde</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

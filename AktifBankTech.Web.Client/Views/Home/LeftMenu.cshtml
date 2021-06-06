@@ -1,0 +1,49 @@
+﻿@using AktifBankTech.Web.Client.Helper.Url
+@using AktifBankTech.Web.Client.Helper.Server
+
+@{
+    Layout = null;
+
+    AuthSessionManager authManager = new AuthSessionManager();
+    var authUser = authManager.GetAuthenticatUser();
+}
+
+<!-- BEGIN SIDEBPANEL-->
+<nav class="page-sidebar" data-pages="sidebar">
+    <div class="sidebar-overlay-slide from-top" id="appMenu">
+    </div>
+    <div class="sidebar-header">
+    </div>
+    <div class="sidebar-menu">
+        <ul class="menu-items">
+            @if (authUser.Role.RoleName == "User")
+            {
+                <li class="">
+                    <a href="@UrlManager.GetUrl("UserSubscriptions")"><span class="title">Fatura İşlemlerim</span></a>
+                    <span class="icon-thumbnail"><i class="pg-icon">chart</i></span>
+                </li>
+            }
+            @if (authUser.Role.RoleName == "Admin")
+            {
+                <li id="dashboardLeftMenu">
+                    <a href="javascript:;">
+                        <span class="title">Gişe İşlemleri</span>
+                        <span class=" arrow"></span>
+                    </a>
+                    <span class="icon-thumbnail"><i class="pg-icon">grid</i></span>
+                    <ul class="sub-menu">
+                        <li class="">
+                            <a href="@UrlManager.GetUrl("CreateSubscriber")">Yeni Abone</a>
+                        </li>
+                        <li class="">
+                            <a href="@UrlManager.GetUrl("GetSubscriberWithFilter")">Abone Sorgula</a>
+                        </li>
+                    </ul>
+                </li>
+            }
+        </ul>
+        <li class="leftMenuAboutBtnWrapper">
+        </li>
+        <div class="clearfix"></div>
+    </div>
+</nav>

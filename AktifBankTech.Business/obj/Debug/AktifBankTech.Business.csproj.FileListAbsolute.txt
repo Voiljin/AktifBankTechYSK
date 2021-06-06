@@ -1,0 +1,69 @@
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.dll.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.Commons.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AutoMapper.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\Ninject.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.Commons.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.dll.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AutoMapper.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\Ninject.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csprojAssemblyReference.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csproj.CoreCompileInputs.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csproj.CopyComplete
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AutoMapper.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\Ninject.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.Commons.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\AutoMapper.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\Ninject.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.Extended.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csprojAssemblyReference.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csproj.CoreCompileInputs.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csproj.CopyComplete
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.pdb
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.pdb
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.Commons.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AutoMapper.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\Ninject.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.Extended.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Business.Commons.pdb
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.pdb
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AktifBankTech.Data.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\AutoMapper.xml
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.xml
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\Ninject.xml
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.Extended.xml
+D:\Github\AktifBankTech\AktifBankTech.Business\bin\Debug\EntityFramework.Extended.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csprojAssemblyReference.cache
+D:\Github\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csproj.CoreCompileInputs.cache
+D:\Github\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.csproj.CopyComplete
+D:\Github\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.dll
+D:\Github\AktifBankTech\AktifBankTech.Business\obj\Debug\AktifBankTech.Business.pdb

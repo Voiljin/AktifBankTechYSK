@@ -1,0 +1,87 @@
+﻿@using AktifBankTech.Web.Client.Helper.Url
+
+@model int
+@{
+    ViewBag.Title = "SubscriptionInvoice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/JSTools/Invoice/invoice.js" type="text/javascript"></script>
+
+<div class="pageWrapper" subsId="@Model" filterUrl="@UrlManager.GetUrl("SubscriptionInvoiceList")" payInvoiceUrl="@UrlManager.GetUrl("PayInvoicePost")">
+    <div class="row">
+        <div class="col-md-10">
+            <h2>Faturalar</h2>
+        </div>
+    </div>
+    <hr />
+
+    <div class="tableWrapper">
+        <div class="tabWrapper" id="newsTabWrapper">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row" id="testRow">
+                        <div class="typeSelectWrapper">
+
+                        </div>
+                        <div class="categorySelectWrapper">
+
+                        </div>
+                        <div class="subCategorySelectWrapper">
+
+                        </div>
+                        <div class="countrySelectWrapper">
+
+                        </div>
+                        <div class="dateRangerSelectWrapper">
+
+                        </div>
+                        <div class="statusSelectWrapper">
+                            
+                        </div>
+                        <div class="searchWrapper">
+                            <select id="statusSelectItem" class="full-width" data-init-plugin="select2">
+                                <option value="">Status</option>
+                                <option value="Active">Active</option>
+                                <option value="InActive">InActive</option>
+                            </select>
+                        </div>
+                        <div class="filterButtonWrapper">
+                            <button aria-label="" class="btn btn-primary" onclick="InvoicePageListPaging()">Filter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tableContent" id="newsDataContent" style="margin-top:25px;">
+                <div class="table-responsive">
+                    @Html.Action("SubscriptionInvoiceList", new { subscriptionId = Model })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade slide-up disable-scroll" id="modalInvoiceStatus" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-dialog ">
+        <div class="modal-content-wrapper">
+            <div class="modal-content">
+                <div class="modal-header clearfix text-left">
+                    <button aria-label="" type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        <i class="pg-icon">close</i>
+                    </button>
+                    <h5>Fatura Ödeme <span class="semi-bold">İşlemi</span></h5>
+                </div>
+                <div class="modal-body">
+                    <span>Faturayı ödemek istediğinize emin misiniz ?</span>
+                    <div class="row">
+                        <div class="col-md-8">
+                        </div>
+                        <div class="col-md-4 m-t-10 sm-m-t-10">
+                            <button aria-label="" type="button" class="btn btn-primary btn-block m-t-5" id="surveyStatusUpdateBtn">Öde</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

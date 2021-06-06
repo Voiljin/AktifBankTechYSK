@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urls>
+  <url name="UserLogin" pattern="loginUser" title="UserLogin" controller="Account" action="UserLogin" culture="" />
+  <url name="UserLoginPost" pattern="Account/UserLogin/" title="UserLogin" controller="Account" action="UserLogin" culture="" />
+
+  <url name="AdminLogin" pattern="loginAdmin" title="AdminLogin" controller="Account" action="AdminLogin" culture="" />
+  <url name="AdminLoginPost" pattern="Account/AdminLogin/" title="AdminLogin" controller="Account" action="AdminLogin" culture="" />
+  
+  
+  
+  
+  <url name="HomepageRoot" pattern="Home" title="Index" controller="Home" action="Index" culture="" />
+  <url name="Logout" pattern="Account/Logout" title="Logout" controller="Account" action="Logout" culture="" />
+  
+  <!--Account-->
+  <!--<url name="UserLogin" pattern="UserLoginn" title="Login" controller="Account" action="Index" culture="" />-->
+  <!--<url name="Login" pattern="Account/Login/" title="Login" controller="Account" action="Login" culture="" />-->
+
+  <!--Subscriber-->
+  <url name="UserSubscriptions" pattern="Subscriber/UserSubscriptions" title="UserSubscriptions" controller="Subscriber" action="UserSubscriptions" culture="" />
+  <url name="CreateSubscriber" pattern="Subscriber/CreateSubscriber" title="CreateSubscriber" controller="Subscriber" action="CreateSubscriber" culture="" />
+  <url name="CreateSubscriberPost" pattern="Subscriber/CreateSubscriber" title="CreateSubscriber" controller="Subscriber" action="CreateSubscriber" culture="" />
+  <url name="GetSubscriberWithFilter" pattern="Subscriber/GetSubscriberWithFilter" title="GetSubscriberWithFilterList" controller="Subscriber" action="GetSubscriberWithFilter" culture="" />
+  <url name="GetSubscriberWithFilterList" pattern="Subscriber/GetSubscriberWithFilterList" title="GetSubscriberWithFilterList" controller="Subscriber" action="GetSubscriberWithFilterList" culture="" />
+  <url name="TurnOffSubscription" pattern="Subscriber/TurnOffSubscription" title="TurnOffSubscription" controller="Subscriber" action="TurnOffSubscription" culture="" />
+
+
+
+  
+  <!--Invoices-->
+  <url name="SubscriptionInvoice" pattern="Invoice/SubscriptionInvoice" title="SubscriptionInvoice" controller="Invoice" action="SubscriptionInvoice" culture="" />
+  <url name="SubscriptionInvoiceList" pattern="Invoice/SubscriptionInvoiceList" title="SubscriptionInvoiceList" controller="Invoice" action="SubscriptionInvoiceList" culture="" />
+  <url name="PayInvoicePost" pattern="Invoice/PayInvoice" title="PayInvoice" controller="Invoice" action="PayInvoice" culture="" />
+
+  
+  
+</urls>

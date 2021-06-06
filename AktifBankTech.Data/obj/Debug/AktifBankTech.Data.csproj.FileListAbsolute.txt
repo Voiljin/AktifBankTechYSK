@@ -1,0 +1,54 @@
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.dll.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Business.Commons.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Business.Commons.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csprojAssemblyReference.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.CoreCompileInputs.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.CopyComplete
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.Migrations.CreateDb.resources
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.GenerateResource.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Business.Commons.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.Extended.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csprojAssemblyReference.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.Migrations.CreateDb.resources
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.GenerateResource.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.CoreCompileInputs.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.CopyComplete
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.pdb
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.dll
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Data.pdb
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Business.Commons.dll
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.dll
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.Extended.dll
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\AktifBankTech.Business.Commons.pdb
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.xml
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.Extended.xml
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.Extended.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csprojAssemblyReference.cache
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.Migrations.CreateDb.resources
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.GenerateResource.cache
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.CoreCompileInputs.cache
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.csproj.CopyComplete
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.dll
+D:\Github\AktifBankTech\AktifBankTech.Data\obj\Debug\AktifBankTech.Data.pdb

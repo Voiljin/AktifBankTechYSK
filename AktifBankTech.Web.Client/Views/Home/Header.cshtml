@@ -1,0 +1,43 @@
+﻿@using AktifBankTech.Web.Client.Helper.Url
+@using AktifBankTech.Web.Client.Helper.Server
+
+@{
+    Layout = null;
+
+    AuthSessionManager authManager = new AuthSessionManager();
+}
+
+<!-- START HEADER -->
+<div class="header ">
+    <!-- START MOBILE SIDEBAR TOGGLE -->
+    <a href="#" class="btn-link toggle-sidebar d-lg-none pg-icon btn-icon-link" data-toggle="sidebar">
+        menu
+    </a>
+    <!-- END MOBILE SIDEBAR TOGGLE -->
+    <div class="">
+        <div class="brand inline  m-l-10 ">
+            <img id="headerLOGO" src="~/assets/img/aktifbank.png" alt="logo" width="130" height="33">
+        </div>
+    </div>
+    <div class="d-flex align-items-center">
+        <div class="dropdown pull-right d-lg-block d-none">
+            <button class="profile-dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="profile dropdown">
+                <span class="thumbnail-wrapper d32 circular inline">
+                    <img src="~/assets/img/anonymous-user.png" alt="" width="32" height="32">
+                </span>
+            </button>
+            <div class="dropdown-menu dropdown-menu-right profile-dropdown" role="menu">
+                <a href="#" class="dropdown-item"><span>Signed in as <br /><b>@authManager.GetAuthenticatUser().FirstName @authManager.GetAuthenticatUser().LastName</b></span></a>
+                <div class="dropdown-divider"></div>
+                <a href="#" class="dropdown-item">TCNo: @authManager.GetAuthenticatUser().TCNo</a>
+                <a class="btn btn-default btn-sm" href="@UrlManager.GetUrl("Logout")">
+                    <span class="glyphicon glyphicon-log-out" id="logoutIcon"></span> Log out
+                </a>
+            </div>
+        </div>
+        @*<a href="#" class="header-icon m-l-5 sm-no-margin d-inline-block" data-toggle="quickview" data-toggle-element="#quickview">
+                <i class="pg-icon btn-icon-link">menu_add</i>
+            </a>*@
+    </div>
+</div>
+<!-- END HEADER -->

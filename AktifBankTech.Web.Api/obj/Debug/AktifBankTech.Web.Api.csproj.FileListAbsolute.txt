@@ -1,0 +1,378 @@
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.ValueTuple.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\VBCSCompiler.exe
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.dll.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.exe
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.exe.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.rsp
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.exe
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.exe.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.rsp
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.AppContext.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Console.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.Compression.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Net.Http.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.exe
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.exe.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.rsp
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.Commons.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Hosting.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Newtonsoft.Json.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Extensions.NamedScope.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.Owin.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.WebHost.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.OwinSelfHost.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Owin.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Net.Http.Formatting.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.Owin.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.WebHost.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\WebActivatorEx.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AutoMapper.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.Commons.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.dll.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Hosting.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Extensions.NamedScope.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.Owin.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.WebHost.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.OwinSelfHost.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.Owin.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Newtonsoft.Json.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Net.Http.Formatting.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.WebHost.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AutoMapper.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.dll.config
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csprojAssemblyReference.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csproj.CoreCompileInputs.cache
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csproj.CopyComplete
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.pdb
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.SqlServer.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.SqlServer.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Helpers.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Mvc.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Razor.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Razor.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Helpers.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Mvc.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Razor.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Razor.xml
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.exe
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.exe.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.rsp
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.exe
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.exe.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.rsp
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Console.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Net.Http.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.exe
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.exe.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.rsp
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.Commons.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Newtonsoft.Json.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.Owin.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.OwinSelfHost.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Owin.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Helpers.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.Owin.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Mvc.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Razor.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\WebActivatorEx.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AutoMapper.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.Extended.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.Commons.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.Owin.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.OwinSelfHost.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Helpers.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.Owin.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Mvc.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Razor.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Newtonsoft.Json.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AutoMapper.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.pdb
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.Extended.xml
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.Extended.dll.config
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csprojAssemblyReference.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csproj.CopyComplete
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.dll
+C:\Users\Illidan Stormrage\Desktop\Projeler\04.06.2021 Ev Başlangıç\AktifBankTech\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.pdb
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Web.Api.pdb
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.exe
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.exe.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csc.rsp
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.exe
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.exe.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\csi.rsp
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.AppContext.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Console.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Globalization.Calendars.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.Compression.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Net.Http.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Net.Sockets.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.ValueTuple.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XPath.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.exe
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.exe.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\vbc.rsp
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\VBCSCompiler.exe
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.Commons.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.SqlServer.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Hosting.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Newtonsoft.Json.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Extensions.NamedScope.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.Owin.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.WebHost.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.OwinSelfHost.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Owin.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Net.Http.Formatting.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Helpers.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.Owin.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.WebHost.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Mvc.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Razor.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Razor.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\WebActivatorEx.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AutoMapper.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.Extended.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.Commons.pdb
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.pdb
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Business.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.SqlServer.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Hosting.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Extensions.NamedScope.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.Owin.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.Common.WebHost.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Ninject.Web.WebApi.OwinSelfHost.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Helpers.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.Owin.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Mvc.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Razor.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.WebPages.Razor.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Newtonsoft.Json.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Net.Http.Formatting.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\System.Web.Http.WebHost.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AutoMapper.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.pdb
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\AktifBankTech.Data.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.Extended.xml
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\bin\EntityFramework.Extended.dll.config
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csprojAssemblyReference.cache
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csproj.CoreCompileInputs.cache
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.csproj.CopyComplete
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.dll
+D:\Github\AktifBankTech\AktifBankTech.Web.Api\obj\Debug\AktifBankTech.Web.Api.pdb
